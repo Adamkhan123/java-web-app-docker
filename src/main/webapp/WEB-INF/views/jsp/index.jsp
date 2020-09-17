@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Ruad Technologies 2019</p>
+		<p>&copy; Ruad Technologies 2020</p>
 	</footer>
 </div>
 
