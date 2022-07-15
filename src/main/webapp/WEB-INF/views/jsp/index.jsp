@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Ruad Technologies, LB Nagar, Hyderabad.</h2>
+			<h2>Welcome To Adam Technologies, LB Nagar, Hyderabad.</h2>
 			<h3>Contact @ +91-9949868547 ,+91-9980923226</h3>
 		</div>	
 	</div>
